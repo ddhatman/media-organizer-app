@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "media-organizer-app", "media-organizer-app\media-organizer-app.csproj", "{01FF4368-0A8A-4333-AE63-15D020D7A287}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01FF4368-0A8A-4333-AE63-15D020D7A287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01FF4368-0A8A-4333-AE63-15D020D7A287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01FF4368-0A8A-4333-AE63-15D020D7A287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01FF4368-0A8A-4333-AE63-15D020D7A287}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4133E05-7499-41F2-AE2D-2F408B356A21}
+	EndGlobalSection
+EndGlobal
